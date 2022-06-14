@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="/src/assets/interface.png" alt="interface-aplicação" width="600px">
+  
   <a target="_blank" href="https://teste-minehr-alleson.netlify.app/"><img src="https://www.netlify.com/img/global/meta-image.jpg" alt="netlify" width="100px" height="50px"></img></a>
   
   <b>Você pode ver a aplicação na Netlify clicando no botão acima</b>
